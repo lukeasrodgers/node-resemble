@@ -5,6 +5,12 @@ Node port of [Resemble.js](https://github.com/Huddle/Resemble.js).
 
 Analyse and compare images with Javascript and HTML5. [Resemble.js Demo](http://huddle.github.com/Resemble.js/)
 
+### Installation
+
+node-resemble requires [canvas](https://github.com/learnboost/node-canvas), which depends on Cairo.
+
+Platform-specific installation instructions may be found at the [node-canvas wiki](https://github.com/LearnBoost/node-canvas/wiki/_pages).
+
 ### Example
 
 Retrieve basic analysis on image.
